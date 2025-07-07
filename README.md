@@ -12,7 +12,7 @@
 ```yaml
 Name:             Jyotiraditya Samal
 Class:            Game Developer / Embedded Engineer
-XP:               █████████░░░░░░ 67%
+XP:               █████████░░░░░░ 74%
 Skills:
   - Unity / Unreal Engine
   - C# / C++ / Python
@@ -20,7 +20,7 @@ Skills:
   - IoT Firmware Coding
   - Pixel Art & Game Design
 Achievements:
-  - 👾 Created 3+ Indie Game Prototypes
+  - 👾 Upto some Indie-Dev... :)
   - 🔧 Engineered multiple IoT gadgets
   - 📦 Published libraries & open-source tools
 ```
@@ -62,14 +62,12 @@ Achievements:
 ---
 
 ### 💬 Connect with Me
-
-- 🎮 Portfolio: [YourSiteHere.dev](https://example.com)  
-- 🐦 Twitter: [@YourHandle](https://twitter.com/YourHandle)  
-- 🎥 Devlogs: [YouTube](https://youtube.com/@YourChannel)  
-- 📧 Email: your.email@example.com  
+  
+- 🎥 Devlogs: [YouTube](https://www.youtube.com/@codesaga5592)  
+- 📧 Email: jyotiraditya.samal@gmail.com 
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:330867,100:0e0e52&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:9d00ff,100:6a00f4&height=120&section=footer"/>
 </p>
