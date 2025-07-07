@@ -5,8 +5,9 @@
 
 <!-- Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&duration=2000&pause=1000&color=F7F7F7&center=true&vCenter=true&multiline=true&width=1000&lines=Loading+Profile...;Game+Developer+Detected!;Rendering+Stats...;Press+START+to+Begin" />
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&duration=2000&pause=1000&color=F7F7F7&center=true&vCenter=true&multiline=true&lineHeight=40&width=1000&lines=Loading+Profile...;Game+Developer+Detected!;Rendering+Stats...;Press+START+to+Begin" />
 </p>
+
 
 ---
 
