@@ -1,6 +1,6 @@
 <!-- Waving Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=morphing&color=0:9d00ff,100:6a00f4&height=200&section=header&text=Jyotiraditya%20Samal&fontColor=ffffff&font=Press%20Start%202P&fontSize=24" />
+  <img src="https://capsule-render.vercel.app/api?type=morphing&color=0:9d00ff,100:6a00f4&height=200&section=header&text=Jyotiraditya%20Samal&fontColor=ffffff&font=Press%20Start%202P&fontSize=23" />
 </p>
 
 
