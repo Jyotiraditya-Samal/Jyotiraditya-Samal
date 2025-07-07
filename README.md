@@ -30,7 +30,7 @@ Achievements:
 ### ⚔️ Current Quests
 
 - 🧠 Learning advanced graphics programming  
-- ⚔️ Building a multiplayer pixel-art roguelike  
+- ⚔️ Building Duck & Dot [Dynamic Tic Tac Toe]  
 - 🚀 Experimenting with UWB + real-world gameplay  
 - 🏆 Preparing for Game Jams & embedded projects  
 
@@ -45,11 +45,6 @@ Achievements:
 ---
 
 ### 📊 GitHub XP Stats
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&duration=2000&pause=1000&color=F7F7F7&center=true&vCenter=true&multiline=true&width=1400&lines=Loading+Profile...;Game+Developer+Detected!;Rendering+Stats...;Press+START+to+Begin" />
-</p>
-
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=jyotiraditya-samal&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D" />
