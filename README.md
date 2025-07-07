@@ -50,15 +50,15 @@ Achievements:
 ### 📊 GitHub XP Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jyotiradityasamal&show_icons=true&theme=tokyonight&rank_icon=github&count_private=true&custom_title=LEVEL+PROGRESS" />
+  <img src="https://github-readme-stats.vercel.app/api?username=jyotiraditya-samal&show_icons=true&theme=tokyonight&rank_icon=github&count_private=true&custom_title=LEVEL+PROGRESS" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jyotiradityasamal&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jyotiraditya-samal&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jyotiradityasamal&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jyotiraditya-samal&layout=compact&theme=tokyonight" />
 </p>
 
 ---
