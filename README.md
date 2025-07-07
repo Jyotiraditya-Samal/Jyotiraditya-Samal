@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=F7F7F7&center=true&vCenter=true&multiline=true&lineHeight=40&width=1000&lines=Loading+Profile...;Game+Developer+Detected!;Rendering+Stats...;Press+START+to+Begin" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a00f4,100:9d00ff&height=200&section=header&text=Jyotiraditya%20Samal&fontAlign=50&fontAlignY=40&fontColor=fff&fontSize=30&font=Indie+Flower" />
 </p>
 
 
