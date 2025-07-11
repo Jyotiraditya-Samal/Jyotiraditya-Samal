@@ -8,23 +8,25 @@
 
 ---
 
-### 🎮 Player Stats
+### 🎮 Jyotiraditya Samal
+**Class:** `Game Developer / Embedded Engineer`  
+**XP:** `█████████░░░░░░` **74%**
 
-```yaml
-Name:             Jyotiraditya Samal
-Class:            Game Developer / Embedded Engineer
-XP:               █████████░░░░░░ 74%
-Skills:
-  - Unity / Unreal Engine
-  - C# / C++ / Python
-  - Shader Magic (GLSL / HLSL)
-  - IoT Firmware Coding
-  - Pixel Art & Game Design
-Achievements:
-  - 👾 Upto some Indie-Dev... :)
-  - 🔧 Engineered multiple IoT gadgets
-  - 📦 Published libraries & open-source tools
-```
+---
+
+#### 🛠️ Skills
+- 🎮 Unity / Unreal Engine  
+- 💻 C#, C++, Python  
+- ✨ Shader Magic (GLSL / HLSL)  
+- 🌐 IoT Firmware Coding  
+- 🎨 Pixel Art & Game Design  
+
+---
+
+#### 🏆 Achievements
+- 👾 Dabbled in Indie Dev greatness  
+- 🔧 Built multiple IoT gadgets from scratch  
+- 📦 Published open-source libraries & tools  
 
 ---
 
