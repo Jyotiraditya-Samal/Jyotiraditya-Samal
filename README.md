@@ -1,6 +1,5 @@
 ![](https://github.com/Jyotiraditya-Samal/Jyotiraditya-Samal/blob/main/cyber-banner.gif)
 
----
 
 ### 🕹️ Player Info
 **Name:** `Jyotiraditya Samal`  
@@ -19,7 +18,7 @@
 ---
 
 #### 🏆 Achievements
-- 👾 Dabbled in Indie Dev greatness  
+- 👾 Exploring the world of indie game dev  
 - 🔧 Built multiple IoT gadgets from scratch  
 - 📦 Published open-source libraries & tools 
 
@@ -58,11 +57,11 @@
 
 ### 💬 Connect with Me
   
-- 🎥 Devlogs: [YouTube](https://www.youtube.com/@codesaga5592)  
+- 🎥 Dev-Logs: [CodeSaga](https://www.youtube.com/@codesaga5592)  
 - 📧 Email: jyotiraditya.samal@gmail.com 
 
----
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:800000,100:ff0033&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a00f4,100:9d00ff&height=120&section=footer" />
 </p>
+
