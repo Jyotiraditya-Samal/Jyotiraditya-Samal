@@ -8,7 +8,8 @@
 
 ---
 
-### 🎮 Jyotiraditya Samal
+### 🎮 Player
+**Name:** `Jyotiraditya Samal`
 **Class:** `Game Developer / Embedded Engineer`  
 **XP:** `█████████░░░░░░` **74%**
 
