@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a00f4,100:9d00ff&height=200&section=header&text=Jyotiraditya%20Samal&fontAlign=50&fontAlignY=40&fontColor=fff&fontSize=30&font=Orbitron" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:800000,100:ff0033&height=200&section=header&text=Jyotiraditya%20Samal&fontAlign=50&fontAlignY=40&fontColor=fff&fontSize=30&font=Orbitron" />
 </p>
 
 
@@ -65,5 +65,5 @@ Achievements:
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:9d00ff,100:6a00f4&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:800000,100:ff0033&height=120&section=footer"/>
 </p>
