@@ -8,10 +8,10 @@
 
 ---
 
-### 🎮 Player
-**Name:** `Jyotiraditya Samal`
+### 🕹️ Player
+**Name:** `Jyotiraditya Samal`  
 **Class:** `Game Developer / Embedded Engineer`  
-**XP:** `█████████░░░░░░` **74%**
+**XP:** `█████████░░░░░░` **74%** 
 
 ---
 
@@ -27,7 +27,7 @@
 #### 🏆 Achievements
 - 👾 Dabbled in Indie Dev greatness  
 - 🔧 Built multiple IoT gadgets from scratch  
-- 📦 Published open-source libraries & tools  
+- 📦 Published open-source libraries & tools 
 
 ---
 
