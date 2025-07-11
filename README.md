@@ -1,14 +1,8 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:b22222,100:ff0080&height=200&section=header&text=Jyotiraditya%20Samal&fontAlign=50&fontAlignY=40&fontColor=fff&fontSize=30&font=Orbitron" />
-</p>
-
-
-
-
+![](https://github.com/Jyotiraditya-Samal/Jyotiraditya-Samal/blob/main/cyber-banner.gif)
 
 ---
 
-### 🕹️ Player
+### 🕹️ Player Info
 **Name:** `Jyotiraditya Samal`  
 **Class:** `Game Developer / Embedded Engineer`  
 **XP:** `█████████░░░░░░` **74%** 
