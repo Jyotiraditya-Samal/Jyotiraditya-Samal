@@ -10,7 +10,7 @@
 
 #### 🛠️ Skills
 - 🎮 Unity / Unreal Engine  
-- 💻 C#, C++, Python  
+- 💻 C#, C, C++, Python  
 - ✨ Shader Magic (GLSL / HLSL)  
 - 🌐 IoT Firmware Coding  
 - 🎨 Pixel Art & Game Design  
