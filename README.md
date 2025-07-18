@@ -27,7 +27,7 @@
 ### ⚔️ Current Quests
 
 - 🧠 Learning advanced graphics programming  
-- ⚔️ Building Duck & Dot [Dynamic Tic Tac Toe]  
+- ⚔️ Building Lantern Mouse 🕯️🐭 
 - 🚀 Experimenting with UWB + real-world gameplay  
 - 🏆 Preparing for Game Jams & embedded projects  
 
