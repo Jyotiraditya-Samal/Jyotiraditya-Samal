@@ -12,16 +12,16 @@
 
 ### 🕹️ Player Info
 **Name:** `Jyotiraditya Samal`  
-**Class:** `Game Developer / Embedded Engineer`  
-**XP:** `█████████░░░░░░` **74%** 
+**Class:** `Software Engineer / Game Developer `  
+**XP:**<code> `█████████░░░░░░`</code> **74%** 
 
 ---
 
 #### 🛠️ Skills
-- 🎮 Unity / Unreal Engine  
 - 💻 C#, C, C++, Python  
-- ✨ Shader Magic (GLSL / HLSL)  
 - 🌐 IoT Firmware Coding  
+- 🎮 Unity / Unreal Engine  
+- ✨ Shader Magic (GLSL / HLSL)  
 - 🎨 Pixel Art & Game Design  
 
 ---
@@ -33,7 +33,7 @@
 
 ---
 
-### ⚔️ Current Quests
+#### ⚔️ Current Quests
 
 - 🧠 Learning advanced graphics programming  
 - ⚔️ Building Lantern Mouse 🕯️🐭 
