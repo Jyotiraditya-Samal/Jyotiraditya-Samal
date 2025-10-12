@@ -1,5 +1,14 @@
 ![](https://github.com/Jyotiraditya-Samal/Jyotiraditya-Samal/blob/main/cyber-banner.gif)
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=FFD700&center=true&vCenter=true&width=800&repeat=false&lines=Lantern+Mouse+-+PS+Vita+(Alpha+build)+is+Out!!;Check+out+now+%F0%9F%91%87" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <a href="https://jyotiraditya-samal.itch.io/lantern-mouse">Lantern Mouse - PS Vita [itch.io]</a>
+</p>
+
+
 
 ### 🕹️ Player Info
 **Name:** `Jyotiraditya Samal`  
